@@ -1,5 +1,8 @@
 # Shipping Cost Calculator
 
+# Here is a new update by me...
+# Context: IBM Project to demonstrate basic git commands such as: fork, clone, add, commit, merge, push
+
 ## Input package weight and shipping rate
 weight = float(input("Enter the package weight in kilograms: "))
 rate = float(input("Enter the shipping rate per kilogram: "))
